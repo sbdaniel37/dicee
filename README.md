@@ -1,1 +1,3 @@
 # dicee
+
+simple dice game
